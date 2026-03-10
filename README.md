@@ -21,12 +21,18 @@ https://apexinteractive.itch.io/facade
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="screenshots/gameplay1.png" width="400"/>
-  <img src="screenshots/gameplay2.png" width="400"/>
+  <img src="screenshots/FC1.png" width="400"/>
+  <img src="screenshots/FC2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/gameplay3.png" width="400"/>
+  <img src="screenshots/FC3.png" width="400"/>
+  <img src="screenshots/FC4.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/FC5.png" width="400"/>
+  <img src="screenshots/FC6.png" width="400"/>
 </p>
 
 ---
